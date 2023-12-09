@@ -9,9 +9,9 @@ My first repository
   1. The Witcher:
 
      
- (![image](https://github.com/RamisLouise/app-dev/assets/153332919/3d686989-24e8-498d-9eff-6c0438b77753)
-
-    This movie came from a well known game.The story begins with Geralt of Rivia, Crown Princess Cirilla of Cintra, and the quarter-elf sorceress Yennefer of Vengerberg at different points in time, exploring formative events that shape their characters throughout the first season, before eventually merging into a single timeline.
+ ![image](https://github.com/RamisLouise/app-dev/assets/153332919/3d686989-24e8-498d-9eff-6c0438b77753)
+ 
+ This movie came from a well known game.The story begins with Geralt of Rivia, Crown Princess Cirilla of Cintra, and the quarter-elf sorceress Yennefer of Vengerberg at different points in time, exploring formative events that shape their characters throughout the first season, before eventually merging into a single timeline.
 
   2. The Walking Dead:
 
